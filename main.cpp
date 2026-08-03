@@ -43,11 +43,4 @@ int main()
 	isEmpty = p.length();
 	//cout << "isEmpty=" << isEmpty << endl;
 	cout << "my pie has either >=1 or 0 slices. This one has " << float(int(isEmpty)) / (p.length()+1) <<" slice value";
-
-
-
-
-
-
-
 }
